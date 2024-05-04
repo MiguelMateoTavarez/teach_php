@@ -14,3 +14,11 @@ de [MoureDev en Discord](https://discord.gg/mouredev) ¡Te esperamos por allá!
     * condicionales if
     * switch y match
     * bucles
+
+* **03/05/2024**
+    * Manipulación de strings
+    * Manipulación de números
+    * Manipulación de arreglos
+    * Funciones (métodos cuando están dentro de una clase)
+    * Manejo de errores (introducción)
+    * Hacemos el primer programa (calculadora básica)
