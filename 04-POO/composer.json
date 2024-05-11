@@ -1,0 +1,17 @@
+{
+    "name": "miguelmateo/calc",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Miguelmateo\\Calc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Miguel Mateo",
+            "email": "miguelmateot94@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
