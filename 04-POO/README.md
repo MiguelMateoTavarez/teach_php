@@ -35,3 +35,5 @@ composer init
 ```
 
 Rellenamos toda la información que nos pide y generará la estructura base del proyecto con `src/` como ruta principal del proyecto, luego, creamos un `index.php` fuera del src para que sea nuestro punto de entrada, verifica cómo está hecho en este proyecto para que puedas replicarlo, nuestro punto de entrada requiere el `autoload.php` del composer para funcionar e importar las clases que vamos a crear.
+
+Si bajas este repositorio, y ya entraste a la carpeta 04-POO, debes ejecutar `composer install` en vez de `composer init`, también puedes cambiar el enrutamiento del autoload en el `composer.json`, así podrás personalizar el identificador base de los espacios de nombre de tus clases.
