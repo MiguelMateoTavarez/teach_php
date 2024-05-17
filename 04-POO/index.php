@@ -2,9 +2,10 @@
 
 require __DIR__.'/vendor/autoload.php';
 
+use Miguelmateo\Calc\AdvancedCalculator;
 use Miguelmateo\Calc\BasicCalculator;
 
-$calculator = new BasicCalculator();
+$calculator = new AdvancedCalculator();
 
 $data = [];
 
