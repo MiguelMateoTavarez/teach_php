@@ -7,18 +7,4 @@ Estas clases-tutoriales estarán siendo impartidas todos los viernes en las sala
 de [MoureDev en Discord](https://discord.gg/mouredev) ¡Te esperamos por allá!
 
 ## Temas actualmente impartidos:
-* **26/04/2024**
-    * variables
-    * constantes
-    * tipos de datos
-    * condicionales if
-    * switch y match
-    * bucles
-
-* **03/05/2024**
-    * Manipulación de strings
-    * Manipulación de números
-    * Manipulación de arreglos
-    * Funciones (métodos cuando están dentro de una clase)
-    * Manejo de errores (introducción)
-    * Hacemos el primer programa (calculadora básica)
+[Miguel Mateo D&D](https://buymeacoffee.com/miguelmateo/posts)
