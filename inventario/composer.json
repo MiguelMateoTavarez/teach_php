@@ -1,0 +1,17 @@
+{
+    "name": "inventory/src",
+    "type": "projec",
+    "autoload": {
+        "psr-4": {
+            "Inventory\\Src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Miguel Mateo",
+            "email": "miguelmateot94@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

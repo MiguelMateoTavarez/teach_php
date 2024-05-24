@@ -1,0 +1,5 @@
+CREATE TABLE users (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    usersname TEXT NOT NULL UNIQUE,
+    password TEXT NOT NULL
+);
