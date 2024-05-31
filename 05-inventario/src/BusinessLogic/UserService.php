@@ -2,7 +2,7 @@
 
 namespace Inventory\Src\BusinessLogic;
 
-use Inventory\Src\DataManagement\UserRepository;
+use Inventory\Src\DataManagement\Repositories\UserRepository;
 
 class UserService
 {
